@@ -1,0 +1,33 @@
+body
+		{
+			
+			background-position: center;
+			background-size: cover;
+		}
+		.content
+		{align-self: end;
+			justify-content: center; 
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+			grid-auto-rows: 200px;
+			grid-auto-columns: 200px;
+			grid-row-gap: 50px;
+			margin: 50px 300px;
+
+		}
+	#im
+	{
+		width: 200px;
+		height: 200px;
+	}
+	img
+	{
+		width: 60%;
+		display: block;
+		margin: 30px auto;
+	}
+	img:hover
+	{
+		width: 50%;
+		transition: 0.s;
+	}
