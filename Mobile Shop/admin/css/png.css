@@ -1,0 +1,29 @@
+.body_wrapper{
+	margin: 69px 300px ;
+	width: 700px;
+	height: 520px;
+	background-color: /*#BDB4AD*/;
+	opacity: 0.978;
+	/*min-height: 350px;*/
+	border: 2px solid black/*#1362AD*/;
+}
+.header{
+	margin: 5px;
+	padding: 5px;
+}
+.content{
+	margin: 5px;
+	padding: 5px;	
+}
+#im{
+	border:1px solid black/*#4282C4*/;
+	border-top-right-radius: 15px;
+	padding: 6px;
+}
+#breadcrumb a{
+	text-decoration: none;
+}
+hr{
+	color: black/*#1362AD*/;
+}
+
